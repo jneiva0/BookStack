@@ -18,7 +18,7 @@ return [
 
     // Chapters
     'chapter_create'              => 'criou o capítulo',
-    'chapter_create_notification' => 'Capítulo criado com sucesso',
+    'chapter_create_notification' => 'capítulo criado com sucesso',
     'chapter_update'              => 'atualizou o capítulo',
     'chapter_update_notification' => 'Capítulo atualizado com sucesso',
     'chapter_delete'              => 'excluiu o capítulo',
@@ -26,22 +26,22 @@ return [
     'chapter_move'                => 'moveu o capítulo',
 
     // Books
-    'book_create'                 => 'criou o livro',
-    'book_create_notification'    => 'Livro criado com sucesso',
-    'book_update'                 => 'atualizou o livro',
-    'book_update_notification'    => 'Livro atualizado com sucesso',
-    'book_delete'                 => 'excluiu o livro',
-    'book_delete_notification'    => 'Livro excluído com sucesso',
-    'book_sort'                   => 'ordenou o livro',
-    'book_sort_notification'      => 'Livro reordenado com sucesso',
+    'book_create'                 => 'criou o procedimento',
+    'book_create_notification'    => 'Procedimento criado com sucesso',
+    'book_update'                 => 'atualizou o procedimento',
+    'book_update_notification'    => 'Procedimento atualizado com sucesso',
+    'book_delete'                 => 'excluiu o procedimento',
+    'book_delete_notification'    => 'Procedimento excluído com sucesso',
+    'book_sort'                   => 'ordenou o procedimento',
+    'book_sort_notification'      => 'Procedimento reordenado com sucesso',
 
     // Bookshelves
-    'bookshelf_create'            => 'criou a prateleira',
-    'bookshelf_create_notification'    => 'Prateleira criada com sucesso',
-    'bookshelf_update'                 => 'atualizou a prateleira',
-    'bookshelf_update_notification'    => 'Prateleira atualizada com sucesso',
-    'bookshelf_delete'                 => 'excluiu a prateleira',
-    'bookshelf_delete_notification'    => 'Prateleira excluída com sucesso',
+    'bookshelf_create'            => 'criou a módulo',
+    'bookshelf_create_notification'    => 'Módulo criado com sucesso',
+    'bookshelf_update'                 => 'atualizou o módulo',
+    'bookshelf_update_notification'    => 'Módulo atualizada com sucesso',
+    'bookshelf_delete'                 => 'excluiu o módulo',
+    'bookshelf_delete_notification'    => 'Módulo excluída com sucesso',
 
     // Other
     'commented_on'                => 'comentou em',
